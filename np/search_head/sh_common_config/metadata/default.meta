@@ -1,0 +1,6 @@
+# Ensure that all objects in the app are globally accessible
+
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+version = 6.4.3
